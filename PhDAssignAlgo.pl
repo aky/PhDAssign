@@ -4,7 +4,7 @@ use strict;
 use warnings;
 
 # AKY
-# PI_1.yadav@thsti.res.in
+# amit.yadav@thsti.res.in
 # PhD assignment Algorithms given three choices by Student and PI
 
 my $n=0;#number of iterations for assigning
